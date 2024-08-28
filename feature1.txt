@@ -1,1 +1,1 @@
-FEATURE1
+Fichier feature1.txt de la branche feature2
